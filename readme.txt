@@ -3,14 +3,11 @@ Contributors: GeoDirectory Team
 Donate link: https://wpgeodirectory.com
 Requires at least: 3.1
 Tested up to: 4.7
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
-
-= 1.0.9 =
-Tested upto WP 4.7 - CHANGED
 
 = 1.0.8 =
 Option added to remove plugin data on plugin delete - ADDED
